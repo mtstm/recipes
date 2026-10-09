@@ -4,5 +4,4 @@
 * lemon
 * salt
 ## Instructions
-* new instruction
-* shut up !
+* peel the avocados
